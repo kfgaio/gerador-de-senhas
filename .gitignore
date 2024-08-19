@@ -1,0 +1,22 @@
+# Ignorar arquivos de bytecode Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignorar arquivos de configuração do ambiente virtual
+venv/
+env/
+ENV/
+
+# Ignorar arquivos de configuração do PyCharm
+.idea/
+
+# Ignorar arquivos temporários e logs
+*.log
+*.tmp
+*.swp
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
